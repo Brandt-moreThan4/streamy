@@ -1,3 +1,3 @@
 Set Up:
 
-.\venv\Scripts\activate
+.\streamv\Scripts\activate
